@@ -1,6 +1,6 @@
 <h1 align=“center”>Box Model</h1>
 
-<p align=“center”> <img src=“https://www.simplilearn.com/ice9/free_resources_article_thumb/CSS-Box-Model.png” alt=“Box model diagram” width=“200px”> </p>
+<p align=“center”> <img src=“boxdim.png” alt=“Box model diagram” width=“200px”> </p>
 
 <p align=“center”>The box model is a concept that describes how HTML elements are styled and laid out on a web page. It consists of four parts: content, padding, border, and margin.</p>
 
